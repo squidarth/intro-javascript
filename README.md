@@ -30,7 +30,7 @@ Intro to Javascript
 * Highly asynchronous/event-driven
 * Can make the code seem complicated!
 
-### I read on hacker news that you can write with only Javascript
+### Where else is Javascript?
 
 * I don't want to complicate this too much, but Javascript is in many places now, not just web browser programming
 * There's a way to run javascript on your computer via a framework called `node.js`
